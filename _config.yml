@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.7992831
+  saturation: 0
+  lightness: 1
   brandStrength: 0.9910395
-  lightness: 0.6612903
   brandColors:
     - '#1a1a1a'
     - '#3a3a3a'
     - '#ffffff'
     - '#a6a6a6'
     - '#d5d5d5'
-  rhythmicContrast: 0.5896057
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: AaronAmsterdam
 favicon: null
+name: AaronAmsterdam
 opengraph:
   image: null
   type: null
