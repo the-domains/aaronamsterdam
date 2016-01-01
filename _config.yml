@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: AaronAmsterdam
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1318407661747187
-layout_spectrum: 0.2939068
+layout_spectrum: 1
