@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0
+  saturation: 0.344086
+  lightness: 0.04301075
   brandStrength: 0.9910395
-  lightness: 1
   brandColors:
     - '#1a1a1a'
     - '#3a3a3a'
     - '#ffffff'
     - '#a6a6a6'
     - '#d5d5d5'
-  rhythmicContrast: 0.4641577
+  rhythmicContrast: 0.1863799
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: AaronAmsterdam
+favicon: null
 opengraph:
   image: null
   type: null
