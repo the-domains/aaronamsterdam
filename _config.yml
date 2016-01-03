@@ -1,5 +1,8 @@
-title: Apollo 24 Inc.
-purpose: []
+name: AaronAmsterdam
+favicon: null
+layout_spectrum: 0.8207885
+typography_spectrum: 0.5376344
+title: 'welcome!'
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9856631
-  brandStrength: 0.9910395
-  lightness: 0.5394265
   brandColors:
     - '#1a1a1a'
     - '#3a3a3a'
     - '#ffffff'
     - '#a6a6a6'
     - '#d5d5d5'
+  brandStrength: 0.9910395
+  lightness: 0.5394265
+  saturation: 0.9856631
   rhythmicContrast: 0.9749104
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: AaronAmsterdam
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5376344
-layout_spectrum: 0.8207885
+purpose: []
