@@ -1,4 +1,4 @@
-title: 'welcome!'
+title: welcome!
 purpose: []
 collections:
   - index:
@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.6875
-  brandStrength: 0
-  rhythmicContrast: 0.25
+  brandStrength: 0.8189964
+  lightness: 0.6875
   brandColors:
     - '#1a1a1a'
     - '#3a3a3a'
     - '#ffffff'
     - '#a6a6a6'
     - '#d5d5d5'
-  lightness: 0.6875
+  rhythmicContrast: 0.25
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: AaronAmsterdam
 favicon: null
+name: AaronAmsterdam
 opengraph:
   image: null
   type: null
